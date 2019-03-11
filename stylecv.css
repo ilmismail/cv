@@ -1,0 +1,119 @@
+html{
+    background-color: #444444;
+    padding: 0 1em;
+    background: url('https://i.pinimg.com/originals/3e/87/54/3e875426907cddcb659d030ee60bec92.gif');
+}
+
+body{
+    background-color: #ffffff;
+    font-family: sans-serif;
+    margin: : 1em auto;
+    max-width: 55em;
+    height: 52.625em;
+}
+
+#section-left{
+    width: 40%;
+    float: left;
+    height: 100%;
+    background-color: #800000;
+    color: #ffffff;
+    text-align: center;
+}
+
+#secton-left .section{
+    margin-top: 40%;
+    padding: 1em;
+}
+
+#section-left .section .logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    background: url('https://lh3.googleusercontent.com/a-/AAuE7mBZP0_QDF6hIj7vjbVmrpN8aWkGdPoVsmJXPK-Xww=s192');
+}
+
+.intro hr {
+    width: 4em;
+    display: block;
+    height: 2px;
+    border: 0px;
+    border-top: 2px solid;
+}
+
+.dob {
+    text-decoration: none;
+}
+
+.intro .content{
+    margin-bottom: 20px;
+}
+
+#contact {
+    margin-top: 40px;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+#section-right {
+    width: 60%;
+    float: right;
+     
+}
+
+#section-right .section{
+    margin: 0 0 30px 0;  
+}
+
+.wrapper {
+    padding: 2em;
+}
+
+.fa {
+    margin-right: 15px;
+}
+
+.wrapper .title {
+    color: #800000;
+    font-size: 1.3em;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    border-bottom: 2px solid #a52a2a;
+}
+
+a:link{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+a:visited{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+a:hover{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+a:active{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 1em;
+
+}
+
+h3{
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
